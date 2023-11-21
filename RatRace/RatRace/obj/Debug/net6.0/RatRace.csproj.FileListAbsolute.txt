@@ -1,0 +1,12 @@
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\bin\Debug\net6.0\RatRace.deps.json
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\bin\Debug\net6.0\RatRace.dll
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\bin\Debug\net6.0\RatRace.pdb
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net6.0\RatRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net6.0\RatRace.AssemblyInfoInputs.cache
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net6.0\RatRace.AssemblyInfo.cs
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net6.0\RatRace.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net6.0\RatRace.dll
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net6.0\refint\RatRace.dll
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net6.0\RatRace.pdb
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net6.0\ref\RatRace.dll
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net6.0\RatRace.csproj.AssemblyReference.cache

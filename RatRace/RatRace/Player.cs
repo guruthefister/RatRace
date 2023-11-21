@@ -12,6 +12,7 @@
             Name = name;
             Password = password;
             Money = money;
+            Bets = new List<Bet>();
         }
     }
 }

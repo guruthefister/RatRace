@@ -14,6 +14,19 @@
             "related": ".xml"
           }
         }
+      },
+      "RatRace/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "compile": {
+          "bin/placeholder/RatRace.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RatRace.dll": {}
+        }
       }
     }
   },
@@ -47,11 +60,17 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "RatRace/1.0.0": {
+      "type": "project",
+      "path": "../RatRace/RatRace.csproj",
+      "msbuildProject": "../RatRace/RatRace.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Newtonsoft.Json >= 13.0.3"
+      "Newtonsoft.Json >= 13.0.3",
+      "RatRace >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -61,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\RatRace\\RatRace.csproj",
-      "projectName": "RatRace",
-      "projectPath": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\RatRace\\RatRace.csproj",
+      "projectUniqueName": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\RatRaceFrontEnd\\RatRaceFrontEnd.csproj",
+      "projectName": "RatRaceFrontEnd",
+      "projectPath": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\RatRaceFrontEnd\\RatRaceFrontEnd.csproj",
       "packagesPath": "C:\\Users\\HFGF\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\RatRace\\obj\\",
+      "outputPath": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\RatRaceFrontEnd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -86,7 +105,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\RatRace\\RatRace.csproj": {
+              "projectPath": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\RatRace\\RatRace.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
