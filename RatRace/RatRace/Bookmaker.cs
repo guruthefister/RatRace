@@ -9,23 +9,40 @@
         {
             Bet bet = new Bet(money, player, race, rat);
             Bets.Add(bet);
-            player.Money -= money;
+            player.Money += (money * -1);
             return bet;
         }
+
         public Bookmaker()
         {
             BetRepository = new RatRaceRepositoryJSON();
         }
 
-        public void PayOutWinnings(Bet bet)
+        public void PayOutWinnings()
         {
-            bet.PayWinnings();
+            List<Bet> betsToRemove = new List<Bet>();
+            foreach (var bet in Bets) 
+            {
+                if (bet.PayWinnings())
+                {
+                    betsToRemove.Add(bet);
+                }
+            }
+
+            foreach (var bet in betsToRemove)
+            {
+                Bets.Remove(bet);
+            }
         }
 
         public void Save()
         {
-            Console.WriteLine(Bets.Count);
             BetRepository.Save<Bet>(Bets);
+        }
+
+        public void Load()
+        {
+            Bets = BetRepository.Read<Bet>();
         }
     }
 }

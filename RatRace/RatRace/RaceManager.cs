@@ -12,12 +12,16 @@ namespace RatRace
 
         public Race CreateRace(int raceID, List<Rat> rats, Track track)
         {
-            return new Race(raceID, rats, track);
+            Race race = new Race(raceID, rats, track);
+            Races.Add(race);
+            return race;
         }
 
         public Track CreateTrack(string name, int tracklength)
         {
-            return new Track(name, tracklength);
+            Track track = new Track(name, tracklength);
+            Tracks.Add(track);
+            return track;
         }
 
         public void ConductRace(Race race)
@@ -36,12 +40,16 @@ namespace RatRace
 
         public Rat CreateRat(string name)
         {
-            return new Rat(name);
+            Rat rat = new Rat(name);
+            Rats.Add(rat);
+            return rat;
         }
 
         public Player CreatePlayer(string name, string password, int money)
         {
-            return new Player(name, password, money);
+            Player player = new Player(name, password, money);
+            Players.Add(player);
+            return player;
         }
 
         public RaceManager()
@@ -67,6 +75,18 @@ namespace RatRace
             Players = RaceRepository.Read<Player>();
             Rats = RaceRepository.Read<Rat>();
             Tracks = RaceRepository.Read<Track>();
+        }
+
+        public Player? PlayerLogin(string name, string password)
+        {
+            foreach(var player in Players)
+            {
+                if (player.Login(name, password))
+                {
+                    return player;
+                }
+            }
+            return null;
         }
     }
 }

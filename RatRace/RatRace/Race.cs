@@ -7,6 +7,7 @@ namespace RatRace
         public int RaceID;
         public List<Rat> Rats;
         public Track RaceTrack;
+        public int MinBetSize;
         private Rat _winner;
         private string _log;
 
@@ -27,18 +28,6 @@ namespace RatRace
 
         public Rat GetWinner()
         {
-            if(_winner != null) return _winner;
-
-            int currentHighestPosition = 0;
-
-            foreach (var rat in Rats)
-            {
-                if (rat.Position > currentHighestPosition)
-                {
-                    currentHighestPosition = rat.Position;
-                    _winner = rat;
-                }
-            }
             return _winner;
         }
 
@@ -58,6 +47,7 @@ namespace RatRace
             RaceID = raceid;
             Rats = rats;
             RaceTrack = racetrack;
+            MinBetSize = RNG.Range(1, 5001);
         }
     }
 }
