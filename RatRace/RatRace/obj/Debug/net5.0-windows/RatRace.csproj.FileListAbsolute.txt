@@ -1,0 +1,5 @@
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net5.0-windows\RatRace.csproj.AssemblyReference.cache
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net5.0-windows\RatRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net5.0-windows\RatRace.AssemblyInfoInputs.cache
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net5.0-windows\RatRace.AssemblyInfo.cs
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\net5.0-windows\RatRace.csproj.CoreCompileInputs.cache

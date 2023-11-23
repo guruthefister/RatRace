@@ -1,0 +1,5 @@
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\netcoreapp3.1\RatRace.csproj.AssemblyReference.cache
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\netcoreapp3.1\RatRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\netcoreapp3.1\RatRace.AssemblyInfoInputs.cache
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\netcoreapp3.1\RatRace.AssemblyInfo.cs
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRace\obj\Debug\netcoreapp3.1\RatRace.csproj.CoreCompileInputs.cache
