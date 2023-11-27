@@ -52,9 +52,9 @@ namespace RatRace
             return player;
         }
 
-        public RaceManager()
+        public RaceManager(IRatRaceRepository repo)
         {
-            RaceRepository = new RatRaceRepositoryJSON();
+            RaceRepository = repo;
             Races = new List<Race>();
             Players = new List<Player>();
             Rats = new List<Rat>();

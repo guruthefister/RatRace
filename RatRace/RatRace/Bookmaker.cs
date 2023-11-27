@@ -13,9 +13,9 @@
             return bet;
         }
 
-        public Bookmaker()
+        public Bookmaker(IRatRaceRepository repo)
         {
-            BetRepository = new RatRaceRepositoryJSON();
+            BetRepository = repo;
         }
 
         public void PayOutWinnings()

@@ -1,10 +1,12 @@
-﻿using RatRace;
+﻿using BLL;
+using RatRace;
 using System.ComponentModel.DataAnnotations;
 using System.Runtime.CompilerServices;
 
-RaceManager raceManager = new RaceManager();
+Manager manager = new Manager();
+RaceManager raceManager = manager.raceManager;
 raceManager.Load();
-Bookmaker bookmaker = new Bookmaker();
+Bookmaker bookmaker = manager.bookmaker;
 bookmaker.Load();
 
 Player? player = null;

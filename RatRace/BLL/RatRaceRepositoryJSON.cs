@@ -1,18 +1,12 @@
 ﻿using System;
 using System.Net;
 using System.Text.Json;
+using RatRace;
 using Newtonsoft.Json;
 
-namespace RatRace
+namespace RatRaceBLL
 {
-    public abstract class RatRaceRepository
-    {
-        public RatRaceRepository()
-        {
-        }
-    }
-
-    public class RatRaceRepositoryJSON : RatRaceRepository, IRatRaceRepository
+    public class RatRaceRepositoryJSON: IRatRaceRepository
     {
         public List<T>? Read<T>()
         {

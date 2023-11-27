@@ -15,20 +15,6 @@
           }
         }
       },
-      "BLL/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "RatRace": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/BLL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BLL.dll": {}
-        }
-      },
       "RatRace/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -75,11 +61,6 @@
         "packageIcon.png"
       ]
     },
-    "BLL/1.0.0": {
-      "type": "project",
-      "path": "../BLL/BLL.csproj",
-      "msbuildProject": "../BLL/BLL.csproj"
-    },
     "RatRace/1.0.0": {
       "type": "project",
       "path": "../RatRace/RatRace.csproj",
@@ -88,7 +69,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "BLL >= 1.0.0",
       "Newtonsoft.Json >= 13.0.3",
       "RatRace >= 1.0.0"
     ]
@@ -100,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\RatRaceFrontEnd\\RatRaceFrontEnd.csproj",
-      "projectName": "RatRaceFrontEnd",
-      "projectPath": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\RatRaceFrontEnd\\RatRaceFrontEnd.csproj",
+      "projectUniqueName": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\BLL\\BLL.csproj",
+      "projectName": "BLL",
+      "projectPath": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\HFGF\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\RatRaceFrontEnd\\obj\\",
+      "outputPath": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -126,9 +106,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\BLL\\BLL.csproj"
-            },
             "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\RatRace\\RatRace.csproj": {
               "projectPath": "C:\\Users\\HFGF\\Desktop\\RatRace\\RatRace\\RatRace\\RatRace.csproj"
             }
