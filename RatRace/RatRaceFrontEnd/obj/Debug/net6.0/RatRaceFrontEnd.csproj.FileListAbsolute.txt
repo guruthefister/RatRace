@@ -17,3 +17,5 @@ C:\Users\HFGF\Desktop\RatRace\RatRace\RatRaceFrontEnd\obj\Debug\net6.0\RatRaceFr
 C:\Users\HFGF\Desktop\RatRace\RatRace\RatRaceFrontEnd\obj\Debug\net6.0\RatRaceFrontEnd.genruntimeconfig.cache
 C:\Users\HFGF\Desktop\RatRace\RatRace\RatRaceFrontEnd\obj\Debug\net6.0\ref\RatRaceFrontEnd.dll
 C:\Users\HFGF\Desktop\RatRace\RatRace\RatRaceFrontEnd\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRaceFrontEnd\bin\Debug\net6.0\BLL.dll
+C:\Users\HFGF\Desktop\RatRace\RatRace\RatRaceFrontEnd\bin\Debug\net6.0\BLL.pdb

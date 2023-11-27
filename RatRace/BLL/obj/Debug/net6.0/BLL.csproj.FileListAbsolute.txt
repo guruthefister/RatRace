@@ -1,0 +1,15 @@
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\bin\Debug\net6.0\RatRace.dll
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\bin\Debug\net6.0\RatRace.pdb
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\HFGF\Desktop\RatRace\RatRace\BLL\obj\Debug\net6.0\ref\BLL.dll
