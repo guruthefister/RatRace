@@ -1,0 +1,9 @@
+C:\Users\HFGF\Desktop\RatRace\UnityRats\obj\Debug\netstandard2.1\UnityRats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\Desktop\RatRace\UnityRats\obj\Debug\netstandard2.1\UnityRats.AssemblyInfoInputs.cache
+C:\Users\HFGF\Desktop\RatRace\UnityRats\obj\Debug\netstandard2.1\UnityRats.AssemblyInfo.cs
+C:\Users\HFGF\Desktop\RatRace\UnityRats\obj\Debug\netstandard2.1\UnityRats.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Desktop\RatRace\UnityRats\bin\Debug\netstandard2.1\UnityRats.deps.json
+C:\Users\HFGF\Desktop\RatRace\UnityRats\bin\Debug\netstandard2.1\UnityRats.dll
+C:\Users\HFGF\Desktop\RatRace\UnityRats\bin\Debug\netstandard2.1\UnityRats.pdb
+C:\Users\HFGF\Desktop\RatRace\UnityRats\obj\Debug\netstandard2.1\UnityRats.dll
+C:\Users\HFGF\Desktop\RatRace\UnityRats\obj\Debug\netstandard2.1\UnityRats.pdb

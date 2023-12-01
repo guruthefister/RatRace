@@ -1,7 +1,5 @@
 ﻿using BLL;
 using RatRace;
-using System.ComponentModel.DataAnnotations;
-using System.Runtime.CompilerServices;
 
 Manager manager = new Manager();
 RaceManager raceManager = manager.raceManager;
@@ -50,8 +48,6 @@ while(player == null)
             break;
     }
 }
-
-
 
 bool userWantsToContinue = true;
 while (userWantsToContinue) 
@@ -177,7 +173,6 @@ string AskForInput(string input)
     string userInput = Console.ReadLine();
     return userInput;
 }
-
 
 void SaveAll ()
 {

@@ -1,0 +1,13 @@
+C:\Users\HFGF\Desktop\RatRace\UnityBLL\bin\Debug\netstandard2.1\UnityBLL.deps.json
+C:\Users\HFGF\Desktop\RatRace\UnityBLL\bin\Debug\netstandard2.1\UnityBLL.dll
+C:\Users\HFGF\Desktop\RatRace\UnityBLL\bin\Debug\netstandard2.1\UnityBLL.pdb
+C:\Users\HFGF\Desktop\RatRace\UnityBLL\bin\Debug\netstandard2.1\UnityRats.dll
+C:\Users\HFGF\Desktop\RatRace\UnityBLL\bin\Debug\netstandard2.1\UnityRats.pdb
+C:\Users\HFGF\Desktop\RatRace\UnityBLL\obj\Debug\netstandard2.1\UnityBLL.csproj.AssemblyReference.cache
+C:\Users\HFGF\Desktop\RatRace\UnityBLL\obj\Debug\netstandard2.1\UnityBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\Desktop\RatRace\UnityBLL\obj\Debug\netstandard2.1\UnityBLL.AssemblyInfoInputs.cache
+C:\Users\HFGF\Desktop\RatRace\UnityBLL\obj\Debug\netstandard2.1\UnityBLL.AssemblyInfo.cs
+C:\Users\HFGF\Desktop\RatRace\UnityBLL\obj\Debug\netstandard2.1\UnityBLL.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Desktop\RatRace\UnityBLL\obj\Debug\netstandard2.1\UnityBLL.csproj.CopyComplete
+C:\Users\HFGF\Desktop\RatRace\UnityBLL\obj\Debug\netstandard2.1\UnityBLL.dll
+C:\Users\HFGF\Desktop\RatRace\UnityBLL\obj\Debug\netstandard2.1\UnityBLL.pdb
